@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-### Operating System:
+### Operating System
 1. Windows 10
 
 ### Softwares/SDKs
