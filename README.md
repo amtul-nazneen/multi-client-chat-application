@@ -11,11 +11,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Softwares/SDKs
 1. Jdk 1.8.0 and above
-2. Eclipse IDE
+2. Any IDE
 
 
 ## Steps to run the application
-1. Open Project in Eclipse
+1. Open Project in any IDE
 2. Setup the project on Client(s) and Server machines
 3. Update ServerConfiguration.java in Client machines with Server's Host and Port details 
 4. Run ChatProgramServer.java from the server machine to start the server
