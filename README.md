@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Steps to run the application
 1. Open Project in any IDE
 2. Setup the project on Client(s) and Server machines
-3. Update ServerConfiguration.java in Client machines with Server's Host and Port details 
+3. Update ServerConfiguration.java in the Client machines with Server's Host and Port details 
 4. Run ChatProgramServer.java from the server machine to start the server
 5. Run LaunchChatApp.java from each client that wants to connect
 6. Refer the 'Chat Program Overview' Guide to understand the how system works
