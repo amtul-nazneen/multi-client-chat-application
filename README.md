@@ -1,4 +1,4 @@
-## Chat Program
+## Multi User Chat Program
 A simple Chat Session Application designed and programmed using Socket programming.
 
 ## Getting Started
