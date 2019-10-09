@@ -6,9 +6,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-### Operating System
-1. Windows 10
-
 ### Softwares/SDKs
 1. Jdk 1.8.0 and above
 2. Any IDE
